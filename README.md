@@ -4,10 +4,11 @@
 Welcome to my professional ePortfolio. I have been in the SNHU Computer Science program since August 2022. This site serves as a showcase for my technical growth, bridging my 3 years of experience in IT/Networking with advanced software engineering practices.
 
 ### Current Project: Guardian Path
-A high-performance C++ monitoring application designed for caregivers. 
-* **Software Engineering:** Transitioning a UI/UX prototype into a functional C++ architecture using Visual Studio.
-* **Algorithms:** Implementing real-time geofencing via the Haversine formula.
-* **Databases:** Integrating MongoDB for secure, scalable medical data management.
 
----
-*Specializing in Secure Coding, Malware Detection, and Systems Integration.*
+* **Software Engineering (Enhancement One):** [Read Narrative](./artifacts/software-engineering/narrative.md) | [View Source Code](https://github.com/Terryj1215/Guardian_Path_Application)
+    * Successfully transitioned from a paper prototype to a modular C++ architecture using Visual Studio and the Qt Framework.
+    * Implemented a centralized safety hub featuring real-time location tracking and appliance monitoring.
+    * Utilized Qt’s Signal-Slot mechanism for event-driven navigation and managed memory via Qt Object Trees to prevent leaks.
+
+![Guardian Path Dashboard](./assets/image_45b172.png) 
+*Caption: The enhanced modular Dashboard featuring the Emergency SOS system.*
