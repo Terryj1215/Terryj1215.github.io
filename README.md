@@ -10,5 +10,5 @@ Welcome to my professional ePortfolio. I have been in the SNHU Computer Science 
     * Implemented a centralized safety hub featuring real-time location tracking and appliance monitoring.
     * Utilized Qt’s Signal-Slot mechanism for event-driven navigation and managed memory via Qt Object Trees to prevent leaks.
 
-![Guardian Path Dashboard](./assets/image_45b172.png) 
+![Guardian Path Dashboard](./assets/Screenshot%202026-01-25%20192904.png) 
 *Caption: The enhanced modular Dashboard featuring the Emergency SOS system.*
