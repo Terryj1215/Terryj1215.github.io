@@ -19,5 +19,5 @@ Welcome to my professional ePortfolio. I have been in the SNHU Computer Science 
     * Engineered a **Cross-Platform Data Bridge** between C++ backend logic and a QML frontend to maintain state-persistence across the mapping layer.
     * Optimized spatial data structures to support user-defined safety parameters, allowing for dynamic real-time updates to the geofence boundary.
 
-![Guardian Path Map Enhancement](./assets/Screenshot%202026-01-25%20192904.png)
+![Guardian Path Map Enhancement](./assets/Screenshot%202026-02-01%20150608.png)
 *Caption: The interactive mapping interface featuring the Geocoding search bar and dynamic Geofence circle.*
