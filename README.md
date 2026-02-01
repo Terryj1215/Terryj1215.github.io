@@ -13,7 +13,7 @@ Welcome to my professional ePortfolio. I have been in the SNHU Computer Science 
 ![Guardian Path Dashboard](./assets/Screenshot%202026-01-25%20192904.png) 
 *Caption: The enhanced modular Dashboard featuring the Emergency SOS system.*
 
-* **Algorithms and Data Structure (Enhancement Two):** [Read Narrative](./artifacts/software-engineering/narrative.md) | [View Source Code](https://github.com/Terryj1215/Guardian_Path_Application/tree/main/src)
+* **Algorithms and Data Structure (Enhancement Two):** [Read Narrative](./artifacts/software-engineering/narrative2.md) | [View Source Code](https://github.com/Terryj1215/Guardian_Path_Application/tree/main/src)
     * Developed a dynamic geospatial engine by implementing the **Haversine Formula** to calculate great-circle distances for real-time geofence validation.
     * Integrated an **Asynchronous Geocoding Search Algorithm** to transform string-based user input into precise geographic coordinates ($Latitude, Longitude$).
     * Engineered a **Cross-Platform Data Bridge** between C++ backend logic and a QML frontend to maintain state-persistence across the mapping layer.
