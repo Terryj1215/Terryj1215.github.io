@@ -21,3 +21,12 @@ Welcome to my professional ePortfolio. I have been in the SNHU Computer Science 
 
 ![Guardian Path Map Enhancement](./assets/Screenshot%202026-02-01%20150608.png)
 *Caption: The interactive mapping interface featuring the Geocoding search bar and dynamic Geofence circle.*
+
+**Databases (Enhancement Three):** [Read Narrative](./artifacts/software-engineering/narrative3.md) | [View Source Code](https://github.com/Terryj1215/Guardian_Path_Application)
+    * Integrated a professional **MongoDB NoSQL backend** to move from volatile local memory to a persistent cloud-based data layer.
+    * Implemented full **CRUD functionality** using the MongoDB C++ driver, enabling dynamic management of "Care Ring" emergency contacts.
+    * Refactored core data models to utilize **QString identifiers**, mapping UI elements directly to MongoDB ObjectIDs (OIDs) for precise data targeting.
+    * Engineered a synchronization logic that ensures the Dashboard and Care Ring views maintain state-persistence and parity with the database "source of truth."
+
+![Guardian Path Care Ring Enhancement](./assets/Screenshot%202026-02-08%20142332.png)
+*Caption: The persistent Care Ring system integrated with MongoDB, featuring real-time contact synchronization and primary member assignment.*
