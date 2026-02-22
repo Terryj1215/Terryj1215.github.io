@@ -2,7 +2,7 @@
 ## Full-Stack & DevOps Professional
 
 Welcome to my professional ePortfolio. I have been in the SNHU Computer Science program since August 2022. This site serves as a showcase for my technical growth, bridging my 3 years of experience in IT/Networking with advanced software engineering practices.
-Professional Self-Assessment (./artifacts/software-engineering/Professional Self-Assessment)
+Professional Self-Assessment: [Read Self-Assessment](./artifacts/software-engineering/Professional%20Self-Assessment)
 
 ### Current Project: Guardian Path
 
