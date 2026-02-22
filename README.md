@@ -30,3 +30,6 @@ Welcome to my professional ePortfolio. I have been in the SNHU Computer Science 
 
 ![Guardian Path Care Ring Enhancement](./assets/Screenshot%202026-02-08%20142332.png)
 *Caption: The persistent Care Ring system integrated with MongoDB, featuring real-time contact synchronization and primary member assignment.*
+
+Code Review
+https://youtu.be/DuH-HScd0bM
