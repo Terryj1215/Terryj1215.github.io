@@ -7,6 +7,15 @@ Professional Self-Assessment:
 
 [Read Self-Assessment](./artifacts/software-engineering/Professional%20Self-Assessment)
 
+Code Review
+https://youtu.be/DuH-HScd0bM
+
+Original Code
+https://github.com/Terryj1215/Guardian_Path_Application/tree/8558443590361873466ab6f8090d39af01d926fd/GuardianPath
+
+Enahnced Code
+https://github.com/Terryj1215/Guardian_Path_Application/tree/main/resources
+
 ### Current Project: Guardian Path
 
 * **Software Engineering (Enhancement One):** [Read Narrative](./artifacts/software-engineering/narrative.md) | [View Source Code](https://github.com/Terryj1215/Guardian_Path_Application)
@@ -34,12 +43,3 @@ Professional Self-Assessment:
 
 ![Guardian Path Care Ring Enhancement](./assets/Screenshot%202026-02-08%20142332.png)
 *Caption: The persistent Care Ring system integrated with MongoDB, featuring real-time contact synchronization and primary member assignment.*
-
-Code Review
-https://youtu.be/DuH-HScd0bM
-
-Original Code
-https://github.com/Terryj1215/Guardian_Path_Application/tree/8558443590361873466ab6f8090d39af01d926fd/GuardianPath
-
-Enahnced Code
-https://github.com/Terryj1215/Guardian_Path_Application/tree/main/resources
