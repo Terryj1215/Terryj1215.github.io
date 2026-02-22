@@ -5,7 +5,7 @@ Welcome to my professional ePortfolio. I have been in the SNHU Computer Science 
 
 Professional Self-Assessment: 
 
-[Read Self-Assessment](./artifacts/software-engineering/Professional%20Self-Assessment.md)
+[Read Self-Assessment](./artifacts/software-engineering/Proffessional-Self-Assesment.md)
 
 Code Review
 https://youtu.be/DuH-HScd0bM
